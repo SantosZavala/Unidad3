@@ -1,4 +1,8 @@
-﻿using System;
+//Santos Zahid Zavala Ramírez 
+//Estructura de Datos 
+// Unidad 3
+// Es un sistema de gestión de espera para un restaurante que utiliza una cola para registrar clientes y asignar mesas respetando el orden de llegada.
+using System;
 namespace Proyecto_2_Restaurante
 {
     internal class Program
