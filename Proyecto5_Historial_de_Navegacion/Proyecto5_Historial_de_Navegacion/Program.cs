@@ -1,4 +1,8 @@
-﻿using System;
+// Santos Zahid Zavala Ramírez 
+// Estrucutra de Datos 
+// Unidad 3
+// Es un simulador de navegador web que utiliza dos pilas para gestionar el historial de páginas y permitir la navegación hacia atrás y hacia adelante, igual que los navegadores reales.
+using System;
 
 namespace Proyecto5_Navegador
 {
