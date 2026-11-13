@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\bin\Debug\net10.0\Proyecto5_Historial_de_Navegacion.exe
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\bin\Debug\net10.0\Proyecto5_Historial_de_Navegacion.deps.json
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\bin\Debug\net10.0\Proyecto5_Historial_de_Navegacion.runtimeconfig.json
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\bin\Debug\net10.0\Proyecto5_Historial_de_Navegacion.dll
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\bin\Debug\net10.0\Proyecto5_Historial_de_Navegacion.pdb
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.dll
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\refint\Proyecto5_Historial_de_Navegacion.dll
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.pdb
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\Proyecto5_Historial_de_Navegacion.genruntimeconfig.cache
+C:\Users\zahid\source\repos\Proyecto5_Historial_de_Navegacion\Proyecto5_Historial_de_Navegacion\obj\Debug\net10.0\ref\Proyecto5_Historial_de_Navegacion.dll
