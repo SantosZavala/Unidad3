@@ -1,4 +1,8 @@
-﻿using System;
+//Santos Zahid Zavala Ramírez
+//Estructura de Datos 
+//Unidad 3
+// Es una calculadora basada en pilas que convierte expresiones matemáticas de notación infija a postfija y luego las evalúa respetando la prioridad de los operadores y los paréntesis.
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 
