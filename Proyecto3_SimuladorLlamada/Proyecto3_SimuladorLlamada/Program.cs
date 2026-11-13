@@ -1,4 +1,8 @@
-﻿using Proyecto3_SimuladorLlamada;
+//Santos Zahid Zavala Ramírez 
+// Estructura de Datos 
+// Unidad 3
+//Es un sistema que administra llamadas telefónicas utilizando una pila, donde la última llamada registrada tiene prioridad para ser atendida, visualizada o finalizada.
+using Proyecto3_SimuladorLlamada;
 using System;
 
 namespace Proyecto3_SimuladorLlamada
