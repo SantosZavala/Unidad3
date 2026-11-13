@@ -1,3 +1,5 @@
+//Santos Zahid Zavala Ramírez 
+//Estrucutura de Datos
 // Permite registrar y consultar pacientes usando una lista enlazada simple, donde cada nuevo paciente se agrega al final de la lista y puede visualizarse recorriendo todos los nodos almacenados.
 using System;
 
