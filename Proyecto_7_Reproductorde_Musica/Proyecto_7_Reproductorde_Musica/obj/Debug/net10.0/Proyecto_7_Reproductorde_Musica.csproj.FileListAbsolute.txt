@@ -1,0 +1,14 @@
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.AssemblyInfo.cs
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\bin\Debug\net10.0\Proyecto_7_Reproductorde_Musica.exe
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\bin\Debug\net10.0\Proyecto_7_Reproductorde_Musica.deps.json
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\bin\Debug\net10.0\Proyecto_7_Reproductorde_Musica.runtimeconfig.json
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\bin\Debug\net10.0\Proyecto_7_Reproductorde_Musica.dll
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\bin\Debug\net10.0\Proyecto_7_Reproductorde_Musica.pdb
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.dll
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\refint\Proyecto_7_Reproductorde_Musica.dll
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.pdb
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\Proyecto_7_Reproductorde_Musica.genruntimeconfig.cache
+C:\Users\zahid\source\repos\Proyecto_7_Reproductorde_Musica\Proyecto_7_Reproductorde_Musica\obj\Debug\net10.0\ref\Proyecto_7_Reproductorde_Musica.dll
