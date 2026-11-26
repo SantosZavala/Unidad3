@@ -1,0 +1,29 @@
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.exe
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.deps.json
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.runtimeconfig.json
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.dll
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.pdb
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.sourcelink.json
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.dll
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\refint\ControlProcesosSO.dll
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.pdb
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Documentos\Estructura de datos U4\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ref\ControlProcesosSO.dll
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.exe
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.deps.json
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.runtimeconfig.json
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.dll
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\bin\Debug\net10.0\ControlProcesosSO.pdb
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.AssemblyInfoInputs.cache
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.AssemblyInfo.cs
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.csproj.CoreCompileInputs.cache
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.dll
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\refint\ControlProcesosSO.dll
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.pdb
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ControlProcesosSO.genruntimeconfig.cache
+C:\Users\zahid\OneDrive\Escritorio\Proyecto9_ControlProcesosSO\ControlProcesosSO\obj\Debug\net10.0\ref\ControlProcesosSO.dll
